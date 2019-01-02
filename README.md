@@ -8,7 +8,7 @@ Goals for the project:
 
 Completed:
 
-  Built the required circuitry for the device on a breadboard connecting the following additional components to GPIO pins:
+  Built the required circuitry for the device on a breadboard connecting the following additional components:
         - Potentiometers
         - PCF 8591 module (8 bit)
         - 74H595 8 bit shift register
