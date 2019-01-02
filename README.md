@@ -7,7 +7,8 @@ Goals for the project:
   Allow control of the treble and bass of the song being played
 
 Completed:
-  Built the required circuitry for the device on a breadboard connecting the following additional components to GPIO pins -
+
+  Built the required circuitry for the device on a breadboard connecting the following additional components to GPIO pins:
         - Potentiometers
         - PCF 8591 module (8 bit)
         - 74H595 8 bit shift register
@@ -15,11 +16,12 @@ Completed:
         - speakers
         - LCD screen
         - Servo Motor (to rotate LEDs)
-        - Ultrasonic Distance sensor, Thermistor sensor
+        - Ultrasonic Distance sensor, Thermistor sensor       
   Set up and programmed the Raspberry pi I2C bus to communicate with multiple devices (PCF8591 and PCF8574).
   Set up the required functions for each component added to the circuitry
   Set up several GPIO pins to output PWM voltage to provide a varying voltage signal easily to some devices.     
 
 To be completed:
+
   Write code for the main sequence of tasks (main) using multiple threads and Asynchronous programming.
   
