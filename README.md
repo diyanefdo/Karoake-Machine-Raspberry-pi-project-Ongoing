@@ -1,6 +1,6 @@
 # Karoake-Machine-Raspberry-pi-project-Ongoing 
 Goals for the project:
-  Build a device that allows the user to select a song on the phone and automatically play the song on the speakers in the device
+Build a device that allows the user to select a song on the phone and automatically play the song on the speakers in the device
   Automatically browse and generate lyrics for the respective song on the device LCD screen
   Allow volume control of the song using hand motion
   Allow control of the treble and bass of the song being played
