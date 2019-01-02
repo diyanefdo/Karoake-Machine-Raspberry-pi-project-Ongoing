@@ -1,0 +1,40 @@
+NOTE: In the program, location of the pin number is used 
+instead of the GPIO pin number.
+
+Red Power LED (output):
+	GPIO 17 (pin 11)
+Red Power Button (input):
+	GPIO 27 (pin 13)
+Green Play/Pause Button (input):
+	GPIO 22 (pin 15)
+Bottom Potentiometer (Analogue input)
+	pin AIN0 (PCF 8591)
+Top Potentiometer (Analogue input)
+	pin AIN1 (PCF 8591)
+Servo Motor feedback:
+	GPIO 23 (pin 16)
+Photoresistor Analogue input:
+	pin AIN2 (PCF 8591)
+
+LED Bar Graph (74HC595 module 1):
+	SH_CP - GPIO 18 (pin 12)
+LED Bar Graph (74HC595 module 1):
+	ST_CP - GPIO 21 (pin 40)
+LED Bar Graph (74HC595 module 1):
+	DS - GPIO 20 (pin 38)
+
+Ultrasound distance measure (Echo - input)
+	GPIO 6 (pin 31)
+Ultrasound distance measure (Trig - output)
+	GPIO 5 (pin 29)
+
+RGB LED Blue (output - PWM)
+	GPIO 24 (pin 18)
+RGB LED Green (output - PWM)
+	GPIO 25 (pin 25)
+RGB LED Red (outuput - PWM)
+	GPIO 12 (pin 32)
+
+
+Disco lights (Red and Green)
+	GPIO 13 (pin 33)
