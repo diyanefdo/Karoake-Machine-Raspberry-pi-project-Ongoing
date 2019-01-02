@@ -18,7 +18,7 @@ Completed:
         - DC Servo Motor (to rotate LEDs)
         - Ultrasonic Distance sensor, Thermistor sensor       
   Set up and programmed the Raspberry pi I2C bus to communicate with multiple devices (PCF8591 and PCF8574).
-  Set up the required functions for each component added to the circuitry
+  Set up the required functions for each component added to the electrical circuitry.
   Set up several GPIO pins to output PWM voltage to provide a varying voltage signal easily to some devices.     
 
 To be completed:
